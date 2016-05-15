@@ -1,3 +1,2 @@
-# java-sandbox
-Random Java code/experimentation
- 
+# Java data structures
+Some data structures implemented in Java
